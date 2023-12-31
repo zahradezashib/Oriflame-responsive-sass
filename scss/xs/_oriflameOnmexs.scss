@@ -1,0 +1,458 @@
+main>.oriflameOnme{
+    width: 100%;
+    height: 650px;
+    margin-top:40%;
+    div.Onme{
+        width:100%;
+        height:120px;
+        div:nth-of-type(1){
+            width: 100%;
+            height:60px;
+            display: flex;
+            text-align: center;
+            align-items: center;
+            h3{
+                width:80%;
+                height:60px;
+                line-height:60px;
+                font-weight: bold;
+                font-size:40px;
+                margin-left:10%;
+            }
+            a{
+                width:25%;
+                height:45px;
+                color: #333333;
+                border: 1px solid black;
+                border-radius:20px;
+                line-height: 45px;
+                position: relative;
+                top:850%;
+                right:40%;
+            }>a:hover{background-color: rgb(246, 246, 246);}
+        }
+        div:nth-of-type(2){
+            width: 100%;
+            height:60px;
+            text-align: center;
+            line-height: 60px;
+            font-size:20px;
+        }
+    }
+    div.swiperOnme{
+        width:100%;
+        height:370px;
+        .swiper {
+            width: 100%;
+            height: 100%;
+          }
+          .swiper-slideOne{
+            display: grid;
+            grid:250px 250px / 250px 250px 250px;
+            svg{
+              width:85px;
+              height:85px;
+              border-radius:45px;
+              position: relative;
+              bottom:70%;
+              left:30%;
+              path{
+                transform: scale(4);
+                fill:rgba(0, 0, 0, 0.708);
+                text-align: center;
+              }
+            }
+            div:nth-of-type(1){
+              width:95%;
+              height:95%;
+              margin-top:30%;
+              margin-left: 3%;
+              img {
+                width:100%;
+                height:100%;
+                object-fit: cover;
+                border-radius:10px;
+              }
+            }
+            div:nth-of-type(2){
+              width:95%;
+              height:95%;
+              margin-top:30%;
+              margin-left: 3%;
+              img {
+                width:100%;
+                height:100%;
+                object-fit: cover;
+                border-radius:10px;
+              }
+            }
+            div:nth-of-type(3){
+              width:95%;
+              height:95%;
+              margin-top:30%;
+              margin-left:3%;
+              img {
+                width:100%;
+                height:100%;
+                object-fit: cover;
+                border-radius:10px;
+              }
+            }
+            div:nth-of-type(4){
+              width:95%;
+              height:95%;
+              margin-top:30%;
+              margin-left: 3%;
+              display: none;
+              img {
+                width:100%;
+                height:100%;
+                object-fit: cover;
+                border-radius:10px;
+              }
+            }
+          }
+          .swiper-slideTwo{
+            display: grid;
+            grid:250px 250px / 250px 250px 250px;
+            svg{
+              width:85px;
+              height:85px;
+              border-radius:45px;
+              position: relative;
+              bottom:70%;
+              left:30%;
+              path{
+                transform: scale(4);
+                fill:rgba(0, 0, 0, 0.708);
+                text-align: center;
+              }
+            }
+            div:nth-of-type(1){
+              width:95%;
+              height:95%;
+              margin-top:30%;
+              margin-left: 3%;
+              img {
+                width:100%;
+                height:100%;
+                object-fit: cover;
+                border-radius:10px;
+              }
+            }
+            div:nth-of-type(2){
+              width:95%;
+              height:95%;
+              margin-top:30%;
+              margin-left: 3%;
+              img {
+                width:100%;
+                height:100%;
+                object-fit: cover;
+                border-radius:10px;
+              }
+            }
+            div:nth-of-type(3){
+              width:95%;
+              height:95%;
+              margin-top:30%;
+              margin-left: 3%;
+              img {
+                width:100%;
+                height:100%;
+                object-fit: cover;
+                border-radius:10px;
+              }
+            }
+            div:nth-of-type(4){
+              width:95%;
+              height:95%;
+              margin-top:30%;
+              margin-left: 3%;
+              display: none;
+              img {
+                width:100%;
+                height:100%;
+                object-fit: cover;
+                border-radius:10px;
+              }
+            }
+          }
+          .swiper-slideThree{
+            display: grid;
+            grid:250px 250px / 250px 250px 250px;
+            svg{
+              width:85px;
+              height:85px;
+              border-radius:45px;
+              position: relative;
+              bottom:70%;
+              left:30%;
+              path{
+                transform: scale(4);
+                fill:rgba(0, 0, 0, 0.708);
+                text-align: center;
+              }
+            }
+            div:nth-of-type(1){
+              width:95%;
+              height:95%;
+              margin-top:30%;
+              margin-left: 3%;
+              img {
+                width:100%;
+                height:100%;
+                object-fit: cover;
+                border-radius:10px;
+              }
+            }
+            div:nth-of-type(2){
+              width:95%;
+              height:95%;
+              margin-top:30%;
+              margin-left: 3%;
+              img {
+                width:100%;
+                height:100%;
+                object-fit: cover;
+                border-radius:10px;
+              }
+            }
+            div:nth-of-type(3){
+              width:95%;
+              height:95%;
+              margin-top:30%;
+              margin-left: 3%;
+              img {
+                width:100%;
+                height:100%;
+                object-fit: cover;
+                border-radius:10px;
+              }
+            }
+          }
+          .swiper-slideFour{
+            display: grid;
+            grid:250px 250px / 250px 250px 250px;
+            svg{
+              width:85px;
+              height:85px;
+              border-radius:45px;
+              position: relative;
+              bottom:70%;
+              left:30%;
+              path{
+                transform: scale(4);
+                fill:rgba(0, 0, 0, 0.708);
+                text-align: center;
+              }
+            }
+            div:nth-of-type(1){
+              width:95%;
+              height:95%;
+              margin-top:30%;
+              margin-left: 3%;
+              img {
+                width:100%;
+                height:100%;
+                object-fit: cover;
+                border-radius:10px;
+              }
+            }
+            div:nth-of-type(2){
+              width:95%;
+              height:95%;
+              margin-top:30%;
+              margin-left: 3%;
+              display: none;
+              img {
+                width:100%;
+                height:100%;
+                object-fit: cover;
+                border-radius:10px;
+              }
+            }
+            div:nth-of-type(3){
+              width:95%;
+              height:95%;
+              margin-top:30%;
+              margin-left: 3%;
+              img {
+                width:100%;
+                height:100%;
+                object-fit: cover;
+                border-radius:10px;
+              }
+            }
+            div:nth-of-type(4){
+              width:95%;
+              height:95%;
+              margin-top:30%;
+              margin-left: 3%;
+              img {
+                width:100%;
+                height:100%;
+                object-fit: cover;
+                border-radius:10px;
+              }
+            }
+          }
+          .swiper-slideFive{
+            display: none;
+            display: grid;
+            grid:250px 250px / 250px 250px 250px;
+            svg{
+              width:85px;
+              height:85px;
+              border-radius:45px;
+              position: relative;
+              bottom:70%;
+              left:30%;
+              path{
+                transform: scale(4);
+                fill:rgba(0, 0, 0, 0.708);
+                text-align: center;
+              }
+            }
+            div:nth-of-type(1){
+              display: none;
+              width:95%;
+              height:95%;
+              margin-top:30%;
+              margin-left: 3%;
+              img {
+                width:100%;
+                height:100%;
+                object-fit: cover;
+                border-radius:10px;
+              }
+            }
+            div:nth-of-type(2){
+              width:95%;
+              height:95%;
+              margin-top:30%;
+              margin-left: 3%;
+              display: none;
+              img {
+                width:100%;
+                height:100%;
+                object-fit: cover;
+                border-radius:10px;
+              }
+            }
+            div:nth-of-type(3){
+              width:95%;
+              height:95%;
+              margin-top:30%;
+              margin-left: 3%;
+              display: none;
+              img {
+                width:100%;
+                height:100%;
+                object-fit: cover;
+                border-radius:10px;
+              }
+            }
+            div:nth-of-type(4){
+              width:95%;
+              height:95%;
+              margin-top:30%;
+              margin-left: 3%;
+              display: none;
+              img {
+                width:100%;
+                height:100%;
+                object-fit: cover;
+                border-radius:10px;
+              }
+            }
+          }
+          .swiper-slide{
+            display: none;
+            display: grid;
+            grid:250px 250px / 250px 250px 250px;
+            svg{
+              width:85px;
+              height:85px;
+              border-radius:45px;
+              position: relative;
+              bottom:70%;
+              left:30%;
+              path{
+                transform: scale(4);
+                fill:rgba(0, 0, 0, 0.708);
+                text-align: center;
+              }
+            }
+            div:nth-of-type(1){
+              width:95%;
+              height:95%;
+              margin-top:30%;
+              margin-left: 3%;
+              display: none;
+              img {
+                width:100%;
+                height:100%;
+                object-fit: cover;
+                border-radius:10px;
+              }
+            }
+            div:nth-of-type(2){
+              width:95%;
+              height:95%;
+              margin-top:30%;
+              margin-left: 3%;
+              display: none;
+              img {
+                width:100%;
+                height:100%;
+                object-fit: cover;
+                border-radius:10px;
+              }
+            }
+            div:nth-of-type(3){
+              width:95%;
+              height:95%;
+              margin-top:30%;
+              margin-left: 3%;
+              display: none;
+              img {
+                width:100%;
+                height:100%;
+                object-fit: cover;
+                border-radius:10px;
+              }
+            }
+            div:nth-of-type(4){
+              width:95%;
+              height:95%;
+              margin-top:30%;
+              margin-left: 3%;
+              display: none;
+              img {
+                width:100%;
+                height:100%;
+                object-fit: cover;
+                border-radius:10px;
+              }
+            }
+          }
+          .swiper-button-next{
+            width: 50px;
+            height: 50px;
+            border-radius: 25px;
+            background-color: rgba(245, 245, 245, 0.734);
+            color: black;
+            margin-top:13%;
+          }
+          .swiper-button-prev{
+            width: 50px;
+            height: 50px;
+            border-radius: 25px;
+            background-color: rgba(245, 245, 245, 0.734);
+            color: black;
+            font-weight: lighter;
+            margin-top:13%;
+          }
+    }
+}

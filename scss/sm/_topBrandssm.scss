@@ -1,0 +1,48 @@
+main>.topBrands{
+    width:90%;
+    height:400px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top:7%;
+    p{
+        color: #333333;
+        font-weight: bolder;
+        font-size:40px;
+        text-align: center;
+    }
+    div{
+        width: 100%;
+        margin-top:30px;
+        img{
+            width:200px;
+            height:200px;
+            border-radius:100px;
+            margin: 10px 10px;
+        }
+    }
+    a{
+        width:32%;
+        height:45px;
+        display: inline-block;
+        color: #333333;
+        border: 1px solid black;
+        border-radius:22px;
+        line-height: 45px;
+        margin-top: 30px;
+        text-transform: uppercase;
+
+    }>a:hover{background-color: rgb(246, 246, 246);}
+}
+
+
+main>div.videoo{
+    width:550px;
+    height:450px;
+    margin: 0 auto;
+    margin-top:35%;
+    video{
+        width:550px;
+        height:450px;
+        margin: 0 auto;
+    }
+}

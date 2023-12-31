@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "live-server": "^1.2.2",
+    "node-sass": "^9.0.0",
+    "swiper": "^10.3.1"
+  },
+  "name": "oriflame",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "main": "node-sass -w scss/main.scss -o css/ --output-style compact -r",
+    "setting": "node-sass -w scss/setting.scss -o css/ --output-style compact -r",
+    "xl": "node-sass -w scss/xl.scss -o css/xl --output-style compact -r",
+    "lg": "node-sass -w scss/lg.scss -o css/lg --output-style compact -r",
+    "md": "node-sass -w scss/md.scss -o css/md --output-style compact -r",
+    "sm": "node-sass -w scss/sm.scss -o css/sm --output-style compact -r",
+    "xs": "node-sass -w scss/xs.scss -o css/xs --output-style compact -r"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
